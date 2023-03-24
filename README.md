@@ -34,6 +34,7 @@
 - Diffuionbee https://diffusionbee.com/
 - Midjourney https://www.midjourney.com/
 - Adobe Firefly https://firefly.adobe.com/
+- Tiamat https://www.tiamat.world/
 
 ### AI视频
 - 哔哔终结者 https://b.jimmylv.cn/
