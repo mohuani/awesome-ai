@@ -15,6 +15,7 @@
 - Chat Mind https://www.chatmind.tech
 - Chat Excel https://chatexcel.com
 - Chat PDF https://www.chatpdf.com
+- Chat Doc https://chatdoc.com
 - openai-translator  https://github.com/yetone/openai-translator
 - AiTxt https://aitxt.io/#/
 - AI帮个忙 https://ai-toolbox.codefuture.top/
@@ -34,6 +35,7 @@
 - Diffuionbee https://diffusionbee.com/
 - Midjourney https://www.midjourney.com/
 - Adobe Firefly https://firefly.adobe.com/
+- Tiamat https://www.tiamat.world/
 
 ### AI视频
 - 哔哔终结者 https://b.jimmylv.cn/
@@ -41,6 +43,7 @@
 
 ### 开发工具
 - vscode-gptcommit https://github.com/pwwang/vscode-gptcommit
+- Cursor https://www.cursor.so
 
 
 ## 社群
