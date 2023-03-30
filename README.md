@@ -3,9 +3,10 @@
 
 ## ChatGPT镜像
 - https://chatbot.theb.ai/
+- https://archbot.top/
 - https://aigcfun.com/
+- https://ai.bo-e.com/
 - https://dev.yqcloud.top/
-- http://newb.site/chatgpt
 
 ## 应用
 
