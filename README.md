@@ -21,6 +21,7 @@
 - AiTxt https://aitxt.io/#/
 - AI帮个忙 https://ai-toolbox.codefuture.top/
 - 快速创建GPT小工具  https://open-gpt.app/
+- 多墨智能 https://duomosmart.com/
 
 ### 文稿相关
 
@@ -45,6 +46,7 @@
 ### 开发工具
 - vscode-gptcommit https://github.com/pwwang/vscode-gptcommit
 - Cursor https://www.cursor.so
+- Regex AI https://regex.ai/
 
 
 ## 社群
@@ -53,6 +55,9 @@
 - https://t.me/chatgpt_ask_plus
 - https://t.me/aigcnews
 - https://t.me/aigcnote
+
+### Slack
+- [myGPTReader](https://bmpidev.slack.com/join/shared_invite/zt-1s6f6yoqv-iEhe6UIp0GZ8TgSYVLkugA#/shared-invite/email)
 
 ### v2ex
 - https://www.v2ex.com/go/openai
