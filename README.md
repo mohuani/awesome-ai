@@ -1,7 +1,7 @@
 # awesome-ai
 整理一些AI相关的资讯和应用
 
-## ChatGPT镜像
+### ChatGPT镜像
 - https://chat.jinshutuan.com/
 - https://chatbot.theb.ai/
 - https://archbot.top/
@@ -10,7 +10,7 @@
 - https://chat.vercel.ai/
 - https://github.com/pengzhile/pandora
 
-## 应用
+### 应用
 - 光点红 https://guangdianhong.com/
 - 多墨智能 https://duomosmart.com/
 - DeepGPT https://d.level06.com/
