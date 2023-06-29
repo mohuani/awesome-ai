@@ -53,6 +53,7 @@
 - WriterlyAI https://writerly.ai/
 - CopyAi https://www.copy.ai/
 - WPS AI https://ai.wps.cn/
+- ReviewGPT https://reviewgpt.net/
 
 ### AI图像
 - 百度文心一格 https://yige.baidu.com/
